@@ -68,9 +68,7 @@ export default function SignIn() {
                 title: "LOGIN",
                 description: "Succesfully logged",
               })
-            setTimeout(() => {
-                router.push("/program/dashboard")
-            }, 2000);
+          
         }
 
         
